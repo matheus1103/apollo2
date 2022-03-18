@@ -15,7 +15,7 @@ const Menu = ({ open }:MenuProps) => {
         </Link>
       <Link to="/contact">
         <span role="img" aria-label="contact">🚀</span>
-        Apollo!
+        Apollo 2
       </Link>
     </StyledMenu>
   )

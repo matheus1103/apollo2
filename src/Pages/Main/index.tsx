@@ -100,8 +100,6 @@ Além de diminuir a poluição, essa prática também diminuiria o preço das en
                             </ol>
 
                             <br></br>
-                            <br></br>
-                            <br></br>
                             <h2><b>Comparação com o sistema de entregas atual </b></h2>
                             <span>O sistema de entregas atual, realizado majoritariamente por motocicletas, gera, além de custos maiores, uma maior emissão de CO2. De modo geral, levando em consideração os dados levantados pelo Instituto de Pesquisa Econômica Aplicada (Ipea), o fator de emissão média de CO2 é de 0,07 kg por quilômetro rodado para motocicletas, considerando um consumo de combustível de 30 km/l. Isso não ocorre com os drones! 
 
@@ -122,6 +120,7 @@ Além de diminuir a poluição, essa prática também diminuiria o preço das en
         <div className='footer'>
             <span>Obrigado!</span>
             <span>Feito com carinho pela equipe Apollo 2 🚀❤️👨🏿‍🚀</span>
+            <a href='https://github.com/matheus1103/apollo2'>GitHub - Matheus</a>
 
         </div>
         </>
