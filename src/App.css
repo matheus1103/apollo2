@@ -1,0 +1,9 @@
+body{
+    background-image:linear-gradient(to right, rgb(0, 0, 20) , rgb(75, 3, 75));
+    color: white;
+}
+*{
+    font-family: 'Kanit', sans-serif;}
+h3{
+    font-weight: normal;
+}
