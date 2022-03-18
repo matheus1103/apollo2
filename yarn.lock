@@ -351,13 +351,6 @@
   resolved "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.4.tgz"
   integrity sha512-rZ5drC/jWjrArrS8BR6SIr4cWpW09RNTYt9AMZo3Jwwif+iacXAqgVjm0B0Bv/S1jhDXKHqRVNCbACkJ89RAnQ==
 
-"@types/react-bootstrap@^0.32.29":
-  version "0.32.29"
-  resolved "https://registry.npmjs.org/@types/react-bootstrap/-/react-bootstrap-0.32.29.tgz"
-  integrity sha512-ynKNFi1lvLLOCC+/G3HMQ2hGE6dzfgCOt6S2+sQy6Y6jVYh2m5Qrc/e1OQN5B2DkUsQAtxr908OpW9lOup6Pgw==
-  dependencies:
-    "@types/react" "*"
-
 "@types/react-dom@^17.0.10":
   version "17.0.11"
   resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-17.0.11.tgz"
