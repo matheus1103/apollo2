@@ -66,8 +66,8 @@ export function Main(){
                        <br></br>
                        <br></br>
                        <br></br>
-                       <iframe width="560" height="315" src="https://www.youtube.com/embed/LCygrWTLccU" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-
+                       <h2>Vídeo do Guia</h2>
+                       <iframe width="860" height="315" src="https://www.youtube.com/embed/n0oHCDAX6pM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                        <br></br>
                        <br></br>
                        <br></br>
